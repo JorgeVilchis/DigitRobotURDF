@@ -9,13 +9,13 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://robot_description/meshes/torso.dae"/>
+        <mesh filename="package://DigitRobotURDF/meshes/torso.dae"/>
       </geometry>
     </visual>
     <collision>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://robot_description/meshes/torso.dae"/>
+        <mesh filename="package://DigitRobotURDF/meshes/torso.dae"/>
       </geometry>
     </collision>
   </link>
@@ -28,13 +28,13 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://robot_description/meshes/hip-yaw-housing.dae"/>
+        <mesh filename="package://DigitRobotURDF/meshes/hip-yaw-housing.dae"/>
       </geometry>
     </visual>
     <collision>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://robot_description/meshes/hip-yaw-housing.dae"/>
+        <mesh filename="package://DigitRobotURDF/meshes/hip-yaw-housing.dae"/>
       </geometry>
     </collision>
   </link>
@@ -47,13 +47,13 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://robot_description/meshes/hip-pitch-housing.dae"/>
+        <mesh filename="package://DigitRobotURDF/meshes/hip-pitch-housing.dae"/>
       </geometry>
     </visual>
     <collision>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://robot_description/meshes/hip-pitch-housing.dae"/>
+        <mesh filename="package://DigitRobotURDF/meshes/hip-pitch-housing.dae"/>
       </geometry>
     </collision>
   </link>
@@ -66,13 +66,13 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://robot_description/meshes/hip-pitch.dae"/>
+        <mesh filename="package://DigitRobotURDF/meshes/hip-pitch.dae"/>
       </geometry>
     </visual>
     <collision>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://robot_description/meshes/hip-pitch.dae"/>
+        <mesh filename="package://DigitRobotURDF/meshes/hip-pitch.dae"/>
       </geometry>
     </collision>
   </link>
@@ -85,13 +85,13 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://robot_description/meshes/knee.dae"/>
+        <mesh filename="package://DigitRobotURDF/meshes/knee.dae"/>
       </geometry>
     </visual>
     <collision>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://robot_description/meshes/knee.dae"/>
+        <mesh filename="package://DigitRobotURDF/meshes/knee.dae"/>
       </geometry>
     </collision>
   </link>
@@ -104,13 +104,13 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://robot_description/meshes/shin.dae"/>
+        <mesh filename="package://DigitRobotURDF/meshes/shin.dae"/>
       </geometry>
     </visual>
     <collision>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://robot_description/meshes/shin.dae"/>
+        <mesh filename="package://DigitRobotURDF/meshes/shin.dae"/>
       </geometry>
     </collision>
   </link>
@@ -123,13 +123,13 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://robot_description/meshes/tarsus.dae"/>
+        <mesh filename="package://DigitRobotURDF/meshes/tarsus.dae"/>
       </geometry>
     </visual>
     <collision>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://robot_description/meshes/tarsus.dae"/>
+        <mesh filename="package://DigitRobotURDF/meshes/tarsus.dae"/>
       </geometry>
     </collision>
   </link>
@@ -142,13 +142,13 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://robot_description/meshes/toe-pitch.dae"/>
+        <mesh filename="package://DigitRobotURDF/meshes/toe-pitch.dae"/>
       </geometry>
     </visual>
     <collision>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://robot_description/meshes/toe-pitch.dae"/>
+        <mesh filename="package://DigitRobotURDF/meshes/toe-pitch.dae"/>
       </geometry>
     </collision>
   </link>
@@ -161,13 +161,13 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://robot_description/meshes/toe-roll.dae"/>
+        <mesh filename="package://DigitRobotURDF/meshes/toe-roll.dae"/>
       </geometry>
     </visual>
     <collision>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://robot_description/meshes/toe-roll.dae"/>
+        <mesh filename="package://DigitRobotURDF/meshes/toe-roll.dae"/>
       </geometry>
     </collision>
   </link>
@@ -180,13 +180,13 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://robot_description/meshes/arm-L1.dae"/>
+        <mesh filename="package://DigitRobotURDF/meshes/arm-L1.dae"/>
       </geometry>
     </visual>
     <collision>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://robot_description/meshes/arm-L1.dae"/>
+        <mesh filename="package://DigitRobotURDF/meshes/arm-L1.dae"/>
       </geometry>
     </collision>
   </link>
@@ -199,13 +199,13 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://robot_description/meshes/shoulder-roll-housing.dae"/>
+        <mesh filename="package://DigitRobotURDF/meshes/shoulder-roll-housing.dae"/>
       </geometry>
     </visual>
     <collision>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://robot_description/meshes/shoulder-roll-housing.dae"/>
+        <mesh filename="package://DigitRobotURDF/meshes/shoulder-roll-housing.dae"/>
       </geometry>
     </collision>
   </link>
@@ -218,13 +218,13 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://robot_description/meshes/shoulder-roll-housing.dae"/>
+        <mesh filename="package://DigitRobotURDF/meshes/shoulder-roll-housing.dae"/>
       </geometry>
     </visual>
     <collision>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://robot_description/meshes/shoulder-roll-housing.dae"/>
+        <mesh filename="package://DigitRobotURDF/meshes/shoulder-roll-housing.dae"/>
       </geometry>
     </collision>
   </link>
@@ -237,13 +237,13 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://robot_description/meshes/arm-L2.dae"/>
+        <mesh filename="package://DigitRobotURDF/meshes/arm-L2.dae"/>
       </geometry>
     </visual>
     <collision>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://robot_description/meshes/arm-L2.dae"/>
+        <mesh filename="package://DigitRobotURDF/meshes/arm-L2.dae"/>
       </geometry>
     </collision>
   </link>
@@ -256,13 +256,13 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://robot_description/meshes/arm-L3.dae"/>
+        <mesh filename="package://DigitRobotURDF/meshes/arm-L3.dae"/>
       </geometry>
     </visual>
     <collision>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://robot_description/meshes/arm-L3.dae"/>
+        <mesh filename="package://DigitRobotURDF/meshes/arm-L3.dae"/>
       </geometry>
     </collision>
   </link>
@@ -275,13 +275,13 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://robot_description/meshes/arm-L4.dae"/>
+        <mesh filename="package://DigitRobotURDF/meshes/arm-L4.dae"/>
       </geometry>
     </visual>
     <collision>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://robot_description/meshes/arm-L4.dae"/>
+        <mesh filename="package://DigitRobotURDF/meshes/arm-L4.dae"/>
       </geometry>
     </collision>
   </link>
@@ -294,13 +294,13 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://robot_description/meshes/hip-yaw-housing.dae" scale="1 -1 1"/>
+        <mesh filename="package://DigitRobotURDF/meshes/hip-yaw-housing.dae" scale="1 -1 1"/>
       </geometry>
     </visual>
     <collision>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://robot_description/meshes/hip-yaw-housing.dae" scale="1 -1 1"/>
+        <mesh filename="package://DigitRobotURDF/meshes/hip-yaw-housing.dae" scale="1 -1 1"/>
       </geometry>
     </collision>
   </link>
@@ -313,13 +313,13 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://robot_description/meshes/hip-pitch-housing.dae" scale="1 -1 1"/>
+        <mesh filename="package://DigitRobotURDF/meshes/hip-pitch-housing.dae" scale="1 -1 1"/>
       </geometry>
     </visual>
     <collision>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://robot_description/meshes/hip-pitch-housing.dae" scale="1 -1 1"/>
+        <mesh filename="package://DigitRobotURDF/meshes/hip-pitch-housing.dae" scale="1 -1 1"/>
       </geometry>
     </collision>
   </link>
@@ -332,13 +332,13 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://robot_description/meshes/hip-pitch.dae" scale="1 -1 1"/>
+        <mesh filename="package://DigitRobotURDF/meshes/hip-pitch.dae" scale="1 -1 1"/>
       </geometry>
     </visual>
     <collision>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://robot_description/meshes/hip-pitch.dae" scale="1 -1 1"/>
+        <mesh filename="package://DigitRobotURDF/meshes/hip-pitch.dae" scale="1 -1 1"/>
       </geometry>
     </collision>
   </link>
@@ -351,13 +351,13 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://robot_description/meshes/knee.dae" scale="1 -1 1"/>
+        <mesh filename="package://DigitRobotURDF/meshes/knee.dae" scale="1 -1 1"/>
       </geometry>
     </visual>
     <collision>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://robot_description/meshes/knee.dae" scale="1 -1 1"/>
+        <mesh filename="package://DigitRobotURDF/meshes/knee.dae" scale="1 -1 1"/>
       </geometry>
     </collision>
   </link>
@@ -370,13 +370,13 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://robot_description/meshes/shin.dae" scale="1 -1 1"/>
+        <mesh filename="package://DigitRobotURDF/meshes/shin.dae" scale="1 -1 1"/>
       </geometry>
     </visual>
     <collision>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://robot_description/meshes/shin.dae" scale="1 -1 1"/>
+        <mesh filename="package://DigitRobotURDF/meshes/shin.dae" scale="1 -1 1"/>
       </geometry>
     </collision>
   </link>
@@ -389,13 +389,13 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://robot_description/meshes/tarsus.dae" scale="1 -1 1"/>
+        <mesh filename="package://DigitRobotURDF/meshes/tarsus.dae" scale="1 -1 1"/>
       </geometry>
     </visual>
     <collision>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://robot_description/meshes/tarsus.dae" scale="1 -1 1"/>
+        <mesh filename="package://DigitRobotURDF/meshes/tarsus.dae" scale="1 -1 1"/>
       </geometry>
     </collision>
   </link>
@@ -408,13 +408,13 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://robot_description/meshes/toe-pitch.dae" scale="1 -1 1"/>
+        <mesh filename="package://DigitRobotURDF/meshes/toe-pitch.dae" scale="1 -1 1"/>
       </geometry>
     </visual>
     <collision>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://robot_description/meshes/toe-pitch.dae" scale="1 -1 1"/>
+        <mesh filename="package://DigitRobotURDF/meshes/toe-pitch.dae" scale="1 -1 1"/>
       </geometry>
     </collision>
   </link>
@@ -427,13 +427,13 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://robot_description/meshes/toe-roll.dae" scale="1 -1 1"/>
+        <mesh filename="package://DigitRobotURDF/meshes/toe-roll.dae" scale="1 -1 1"/>
       </geometry>
     </visual>
     <collision>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://robot_description/meshes/toe-roll.dae" scale="1 -1 1"/>
+        <mesh filename="package://DigitRobotURDF/meshes/toe-roll.dae" scale="1 -1 1"/>
       </geometry>
     </collision>
   </link>
@@ -446,13 +446,13 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://robot_description/meshes/arm-L1.dae" scale="1 -1 1"/>
+        <mesh filename="package://DigitRobotURDF/meshes/arm-L1.dae" scale="1 -1 1"/>
       </geometry>
     </visual>
     <collision>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://robot_description/meshes/arm-L1.dae" scale="1 -1 1"/>
+        <mesh filename="package://DigitRobotURDF/meshes/arm-L1.dae" scale="1 -1 1"/>
       </geometry>
     </collision>
   </link>
@@ -465,13 +465,13 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://robot_description/meshes/shoulder-roll-housing.dae" scale="1 -1 1"/>
+        <mesh filename="package://DigitRobotURDF/meshes/shoulder-roll-housing.dae" scale="1 -1 1"/>
       </geometry>
     </visual>
     <collision>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://robot_description/meshes/shoulder-roll-housing.dae" scale="1 -1 1"/>
+        <mesh filename="package://DigitRobotURDF/meshes/shoulder-roll-housing.dae" scale="1 -1 1"/>
       </geometry>
     </collision>
   </link>
@@ -484,13 +484,13 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://robot_description/meshes/shoulder-roll-housing.dae" scale="1 -1 1"/>
+        <mesh filename="package://DigitRobotURDF/meshes/shoulder-roll-housing.dae" scale="1 -1 1"/>
       </geometry>
     </visual>
     <collision>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://robot_description/meshes/shoulder-roll-housing.dae" scale="1 -1 1"/>
+        <mesh filename="package://DigitRobotURDF/meshes/shoulder-roll-housing.dae" scale="1 -1 1"/>
       </geometry>
     </collision>
   </link>
@@ -503,13 +503,13 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://robot_description/meshes/arm-L2.dae" scale="1 -1 1"/>
+        <mesh filename="package://DigitRobotURDF/meshes/arm-L2.dae" scale="1 -1 1"/>
       </geometry>
     </visual>
     <collision>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://robot_description/meshes/arm-L2.dae" scale="1 -1 1"/>
+        <mesh filename="package://DigitRobotURDF/meshes/arm-L2.dae" scale="1 -1 1"/>
       </geometry>
     </collision>
   </link>
@@ -522,13 +522,13 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://robot_description/meshes/arm-L3.dae" scale="1 -1 1"/>
+        <mesh filename="package://DigitRobotURDF/meshes/arm-L3.dae" scale="1 -1 1"/>
       </geometry>
     </visual>
     <collision>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://robot_description/meshes/arm-L3.dae" scale="1 -1 1"/>
+        <mesh filename="package://DigitRobotURDF/meshes/arm-L3.dae" scale="1 -1 1"/>
       </geometry>
     </collision>
   </link>
@@ -541,13 +541,13 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://robot_description/meshes/arm-L4.dae" scale="1 -1 1"/>
+        <mesh filename="package://DigitRobotURDF/meshes/arm-L4.dae" scale="1 -1 1"/>
       </geometry>
     </visual>
     <collision>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://robot_description/meshes/arm-L4.dae" scale="1 -1 1"/>
+        <mesh filename="package://DigitRobotURDF/meshes/arm-L4.dae" scale="1 -1 1"/>
       </geometry>
     </collision>
   </link>
